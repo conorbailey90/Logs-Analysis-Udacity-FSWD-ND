@@ -22,7 +22,7 @@ It is recommended that you run this program using a virtual machine. We will be 
 Fork this current repository in Github. Next, clone the repository in your terminal using the following command:
 
 ```
-git clone https://github.com/<YOUR-USERNAM-HERE>/Logs-Analysis-Udacity-FSWD-ND.git
+git clone https://github.com/<YOUR-USERNAME-HERE>/Logs-Analysis-Udacity-FSWD-ND.git
 ```
 
 ## Running The Program
